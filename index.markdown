@@ -4,7 +4,7 @@ title: About Me
 ---
 <div class="about-container">
   <div class="about-content" markdown="1">
-  I am a computer science student at the University of Central Florida. I am highly passionate about software engineering, and particular enjoy working with embedded systems and studying programming languages.
+  I am a computer science student at the University of Central Florida. I am highly passionate about software engineering, and particularly enjoy working with embedded systems and studying programming languages.
 
   I am currently an intern at [Moog Inc.](https://www.moog.com/) where I work on several different projects, including software for embedded systems, GUI development, and developer operations improvements. In particular, I developed a fully automated hardware integration test suite for an embedded system, which improved and formalized the testing process.
 
