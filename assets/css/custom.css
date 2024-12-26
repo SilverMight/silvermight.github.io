@@ -25,3 +25,15 @@
   border-radius: 8px; /* Optional: rounded corners */
 }
 
+@media (max-width: 1200px) {
+    .about-container {
+        flex-direction: column; 
+        align-items: center; 
+    }
+    
+    .about-image {
+        width: 100%;
+        max-width: 300px;
+    }
+}
+
